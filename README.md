@@ -38,7 +38,7 @@ This is a real-time messaging application with features like user registration, 
 
 
 
-## Installation
+## 💻 Installation
 
 **1. Clone the repository:**
 ```
@@ -84,3 +84,19 @@ nodemon index.js
 cd clients
 npm start
 ```
+
+## 📱 Screenshots
+A sneak peek of what's inside.
+
+![Animation](https://github.com/user-attachments/assets/07735a0e-8df7-4fc9-a1ab-93bde69c0caa)
+
+![Chat Screen 1](https://github.com/user-attachments/assets/3f63a88b-f2d2-48e5-9752-92a6a36f5ad7)
+
+![Chat Screen 2](https://github.com/user-attachments/assets/9d94492c-48b8-42b5-a95e-7ef5d20c5a70)
+
+
+
+## ✒️ Contact
+Feel free to reach me through the below handles if you'd like to contact me.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-ranjan-bharat/)
