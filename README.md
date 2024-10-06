@@ -40,9 +40,9 @@ This is a real-time messaging application with features like user registration, 
 
 ## 💻 Installation
 
-**1. Clone the repository:**
+**1. Clone the repository using the link:**
 ```
-git clone https://github.com/vishalranjan0988/MERN-Chat-Application.git
+https://github.com/vishalranjan0988/MERN-Chat-Application.git
 ```
 **2. Install server-side dependencies:**
 ``` 
